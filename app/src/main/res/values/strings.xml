@@ -12,5 +12,6 @@
     <string name="btn_submit">Submit</string>
     <string name="delete">Hapus</string>
     <string name="update">Edit</string>
+    <string name="detail_siswa">Detail Siswa</string>
 
 </resources>
