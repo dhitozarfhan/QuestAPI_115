@@ -10,5 +10,6 @@
     <string name="telpon1">Telpon Siswa :</string>
     <string name="required_field">required_field</string>
     <string name="btn_submit">Submit</string>
+    <string name="delete">Hapus</string>
 
 </resources>
